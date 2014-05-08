@@ -30,11 +30,6 @@ Hosting government workers to collaborate and help each other in a variety of ar
 
 ## Session Dates
 
-* May 1 - Open Data Coworking
-* May 8 - API Coworking 
-* May 15 - Open Source Coworking 
-* May 22 - CKAN Coworking  
-* May 29 - *Guest Subject* 
 * June 5 - Open Data Coworking 
 * June 12 - API Coworking 
 * June 19 - Open Source Coworking   
