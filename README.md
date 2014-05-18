@@ -27,6 +27,7 @@ Hosting government workers to collaborate and help each other in a variety of ar
 * Ping Rob Read and Aaron 
 * Regularly reserve 4145 
 * I have 4240 reserved for May, 4145 for June and July
+* Cori for open gov, Sam for os?
 
 ## Session Dates
 
