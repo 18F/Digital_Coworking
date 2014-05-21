@@ -19,7 +19,8 @@ Hosting government workers to collaborate and help each other in a variety of ar
 * First Thursday of the Month - [Open Data Coworking](https://github.com/18F/Digital_Coworking/blob/master/opendata_coworking.md)
 * Second Thursday of the Month - [Open Source Coworking](https://github.com/18F/Digital_Coworking/blob/master/opensource_coworking.md)
 * Third Thursday of the Month - [API Coworking](https://github.com/18F/Digital_Coworking/blob/master/api_coworking.md)
-* Fourth Thursday of the Month - Guest Subject Co-Working (?) 
+* Fourth Thursday of the Month - Design Coworking
+* Fifth Thursday of the Month - Grab Bag 
 
 
 ## Notes for self
@@ -34,28 +35,28 @@ Hosting government workers to collaborate and help each other in a variety of ar
 * June 5 - Open Data Coworking 
 * June 12 - API Coworking 
 * June 19 - Open Source Coworking   
-* June 26 - *Guest Subject*   
+* June 26 - Design Coworking  
 * July 3 - Open Data Coworking   
 * July 10 - API Coworking   
-* July 24 - *Guest Subject*   
-* July 31 - *Guest Subject*   
+* July 24 - Design Coworking  
+* July 31 - *Grab Bag*   
 * August 7 - Open Data Coworking  
 * August 14 - API Coworking  
 August 21 - Open Source Coworking  
-August 28 - *Guest Subject*  
+August 28 - Design Coworking  
 September 4 - Open Data Coworking  
 September 11 - API Coworking  
 September 18 - Open Source Coworking  
-September 25 - *Guest Subject*  
+September 25 - Design Coworking  
 October 2 - Open Data Coworking  
 October 9 - API Coworking  
 October 16 - Open Source Coworking  
-October 23 - *Guest Subject*  
-October 30 - *Guest Subject*  
+October 23 - Design Coworking    
+October 30 - *Grab Bag*  
 November 6 - Open Data Coworking  
 November 13 - API Coworking  
 November 20 - Open Source Coworking  
-November 27 - *Guest Subject*  
+November 27 - Design Coworking  
 December 4 - Open Data Coworking  
 December 11 - API Coworking  
 December 18 - Open Source Coworking  
