@@ -6,6 +6,9 @@ Hosting government workers to collaborate and help each other in a variety of ar
 ## Logistics 
 * GSA HQ - 4th floor infill 
 * 2pm-4pm on Thursdays 
+* Notes
+ * Open Data Hackpad
+ * [Open Source Hackpad](https://hackpad.com/Open-Source-Coworking-xmDTc1oMGiV)
 
 ## Session Format 
 * Introductions 
