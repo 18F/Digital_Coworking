@@ -17,11 +17,11 @@ Hosting government workers to collaborate and help each other in a variety of ar
 * Projects need to have goals
 
 ## Individual Session Items
-* First Thursday of the Month - [Open Data Coworking](https://github.com/18F/Digital_Coworking/blob/master/opendata_coworking.md)
-* Second Thursday of the Month - [Open Source Coworking](https://github.com/18F/Digital_Coworking/blob/master/opensource_coworking.md)
-* Third Thursday of the Month - [API Coworking](https://github.com/18F/Digital_Coworking/blob/master/api_coworking.md)
-* Fourth Thursday of the Month - User-Centered Design Coworking
-* Fifth Thursday of the Month - Grab Bag 
+* First Thursday of the Month - **Open Data Coworking**
+* Second Thursday of the Month - **Open Source Coworking**
+* Third Thursday of the Month - **API Coworking**
+* Fourth Thursday of the Month - **User-Centered Design Coworking**
+* Fifth Thursday of the Month - **Grab Bag** 
 
 ## Session Dates
 
