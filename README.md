@@ -1,14 +1,10 @@
-*Under Construction*
-
 ## Background 
 Hosting government workers to collaborate and help each other in a variety of arenas.  
 
 ## Logistics 
 * GSA HQ - 4th floor infill 
 * 2pm-4pm on Thursdays 
-* Notes
- * Open Data Hackpad
- * [Open Source Hackpad](https://hackpad.com/Open-Source-Coworking-xmDTc1oMGiV)
+* Point of Contact: Gray Brooks
 
 ## Session Format 
 * Introductions 
@@ -26,14 +22,6 @@ Hosting government workers to collaborate and help each other in a variety of ar
 * Third Thursday of the Month - [API Coworking](https://github.com/18F/Digital_Coworking/blob/master/api_coworking.md)
 * Fourth Thursday of the Month - User-Centered Design Coworking
 * Fifth Thursday of the Month - Grab Bag 
-
-
-## Notes for self
-* User-Centered Design (ask HH)
-* Ping Rob Read and Aaron 
-* Regularly reserve 4145 
-* I have 4240 reserved for May, 4145 for June and July
-* Cori for open gov, Sam for os?
 
 ## Session Dates
 
@@ -68,6 +56,10 @@ Hosting government workers to collaborate and help each other in a variety of ar
 * December 25 - *Cancelled*  
 
 
+## Notes for self
+* Cori for open gov, Sam for os?
+ * Open Data Hackpad
+ * [Open Source Hackpad](https://hackpad.com/Open-Source-Coworking-xmDTc1oMGiV)
 
 
 
