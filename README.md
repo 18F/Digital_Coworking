@@ -20,7 +20,7 @@ Hosting government workers to collaborate and help each other in a variety of ar
 * First Thursday of the Month - **Open Data Coworking**
 * Second Thursday of the Month - **Open Source Coworking**
 * Third Thursday of the Month - **API Coworking**
-* Fourth Thursday of the Month - **Analytics**
+* Fourth Thursday of the Month - **Analytics Coworking**
 * Fifth Thursday of the Month - **Grab Bag** 
 
 ## Session Dates
