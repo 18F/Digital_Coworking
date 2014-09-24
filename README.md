@@ -5,6 +5,7 @@ Hosting government workers to collaborate and help each other in a variety of ar
 * GSA HQ - 4th floor infill 
 * 2pm-4pm on Thursdays 
 * Point of Contact: Gray Brooks
+* Open to anyone with a .gov or .mil address
 
 ## Session Format 
 * Introductions 
