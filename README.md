@@ -1,3 +1,9 @@
+## Note: The weekly coworking sessions are on hiatus.  If you need any help with projects you are working on, though, feel free to get in touch.  - Gray Brooks
+
+
+
+~~~~~~~~~~~~~~~~
+
 ## Background 
 Hosting government workers to collaborate and help each other in a variety of arenas.  
 
